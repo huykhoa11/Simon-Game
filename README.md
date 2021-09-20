@@ -9,7 +9,8 @@ If the user succeeds, the series becomes progressively longer and more complex. 
 <Wikipedia August 2017>
 <https://en.wikipedia.org/wiki/Simon_(game)>
 
-This is the preview of the game
+This is the preview of the game<br><br>
+<img width="175" alt="screenshot" src="https://user-images.githubusercontent.com/69473375/133963004-2a41dd0c-e588-4d1c-b98f-56661a2d877e.PNG">
 
 
 
