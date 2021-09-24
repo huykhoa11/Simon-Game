@@ -9,7 +9,7 @@ If the user succeeds, the series becomes progressively longer and more complex. 
 <Wikipedia August 2017>
 <https://en.wikipedia.org/wiki/Simon_(game)>
 
-#How to run
+# How to run
 To run this project, use the command line below
 ```
 $ python simon.py
