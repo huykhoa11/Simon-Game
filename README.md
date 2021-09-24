@@ -15,7 +15,7 @@ To run this project, use the command line below
 ```
 $ python simon.py
 ```
-<br><br><br>
+<br><br>
 
 # Screenshot
 This is the preview of the game.<br><br>
